@@ -1,0 +1,126 @@
+/*My Restuarnat Styles*/
+/* in css */
+
+ 
+ body{
+ 	font-family:'PT Sans Narrow', sans-serif;
+
+	margin:0;
+	padding:0;
+ }
+
+
+ #pageTop {
+ 	text-align: center;
+	width:100%;
+	height:100px;
+	background-color: blue;
+	font-size: 3em;
+	color: white;
+	padding-top:10%;
+
+
+ }
+
+
+  #menuBar {
+  	
+  	width:100%;
+  	height:75px;
+  	margin:0;
+  	background-color: red;
+  	padding: 0%;
+  	padding-left: 400px;
+
+  }
+
+  .menuItems {
+  	float:left;
+    color: white;
+  	width: 15%;
+  	height:20px;
+  	padding: 0%;
+  	margin:0;
+  }
+
+
+  .sideBar{
+
+  	float: left;
+  	width: 30%;
+  	background-color: #42c5f4;
+  	height: 1000px;
+  }
+
+   .mainDisplay{
+   	width: 69%;
+  	float: left;
+
+  }
+
+  .centerImage{
+  	display:block;
+  	margin-left:auto;
+  	margin-right: auto;
+  }
+
+  #specialBox{
+  	margin-top: 5%;
+  	width: 80%;
+    height:800px;
+  	margin-left:auto;
+  	margin-right: auto;
+  	background-color: orange;
+  	padding: 7%;
+
+  	font-size: 30pt;
+  	font-family: 'Bangers', cursive;
+
+  	border-radius: 15px 50px;
+  	color: white;
+  	text-shadow: 2px 2px #00ff00;
+
+
+
+  }
+.listFonts{
+  font-size:50pt;
+  margin-left:10%;
+
+
+}
+  .topLink:link {
+
+  	font-size: 1em;
+	color: white;
+	text-decoration: none;
+
+  }
+
+    .topLink:hover {
+
+    font-size: 1.1em;
+	color: white;
+	text-decoration: none;
+  	
+  }
+
+    .topLink:visited {
+
+    font-size: 1em;
+	color: white;
+	text-decoration: none;
+  	
+  }
+
+   .topLink:active {
+	    font-size: 1em;
+		color: white;
+		text-decoration: none;
+  	
+  }
+
+  a div:hover{
+    font-size: 1.1em;
+  }
+
